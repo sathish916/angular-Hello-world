@@ -1,0 +1,30 @@
+h1 {
+  font-family: Lato;
+  font-size: 25px;
+  color: blue;
+}
+h2 {
+  font-family: Lato;
+  font-size: 20px;
+  color: rgb(255, 0, 149);
+}
+h3 {
+  font-family: Lato;
+  font-size: 18px;
+  color: rgb(89, 0, 255);
+}
+h4 {
+  font-family: Lato;
+  font-size: 16px;
+  color: rgb(0, 255, 98);
+}
+h5 {
+  font-family: Lato;
+  font-size: 14px;
+  color: rgb(255, 17, 0);
+}
+h6 {
+  font-family: Lato;
+  font-size: 12x;
+  color: rgb(0, 162, 255);
+}
